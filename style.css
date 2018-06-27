@@ -1,0 +1,37 @@
+.one{
+  width:400px;  
+}
+#two{
+  margin:50px;
+  color:white;
+  font-style:italic;
+  font-weight:bold;
+}
+#three{
+  background-color:blue;
+  padding:50px;
+  margin:50px;
+}
+#four{
+ background-color:red;
+  padding:50px; 
+  margin:50px;
+}
+#five{
+  background-color:brown;
+  padding:50px;
+  margin:50px;
+}
+#six{
+  background-color:green;
+  padding:50px;
+  margin:50px;
+}
+#seven{
+  background-color:yellow;
+  padding:50px;
+  margin:50px;
+}
+.unique{
+  font-weight:bold;
+}
